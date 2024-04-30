@@ -6,6 +6,10 @@ This is a turn-based game featuring a procedurally generated map. The turn-based
 Many of the "room types"(nodes that are generated in the maze) are not yet functional. 
 
 Links/References to the licensed material are provided below:
+
 https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+
+
 "Grass" Sprites - Pokemon Ruby/Sapphire
+
 "Twitch" Model - League of Legends
