@@ -3,6 +3,8 @@ Senior Capstone project game created in Unity. I've included only the scripts in
 
 This is a turn-based game featuring a procedurally generated map. The turn-based combat is fully functional, and enemies take their turns automatically. I designed the procedural generation algorithm for the maze myself, it is based on maze generation algorithms, knn algorithms, and draws inspiration from other procedurally generated video games.
 
+The infrastructure of the game is built for new enemies, "rooms," abilities, or other features to be added easily.
+
 Many of the "room types"(nodes that are generated in the maze) are not yet functional. 
 
 # Links/References to the licensed material are provided below:
